@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Assignments\Assignment11.1\Assignment11.1\bin\Debug\Assignment11.1.exe.config
+C:\Users\HP\source\repos\Assignments\Assignment11.1\Assignment11.1\bin\Debug\Assignment11.1.exe
+C:\Users\HP\source\repos\Assignments\Assignment11.1\Assignment11.1\bin\Debug\Assignment11.1.pdb
+C:\Users\HP\source\repos\Assignments\Assignment11.1\Assignment11.1\obj\Debug\Assignment11.1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Assignments\Assignment11.1\Assignment11.1\obj\Debug\Assignment11.1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assignments\Assignment11.1\Assignment11.1\obj\Debug\Assignment11.1.exe
+C:\Users\HP\source\repos\Assignments\Assignment11.1\Assignment11.1\obj\Debug\Assignment11.1.pdb
